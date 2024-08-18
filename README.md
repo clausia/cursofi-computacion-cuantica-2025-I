@@ -1,2 +1,7 @@
-# cursofi-computacion-cuantica-2025-I
-Curso de Computación Cuántica para la Facultad de Ingeniería de la UNAM, Semestre 2025-I, Temas selectos de Ingeniería en Computación III
+# Introducción a la Computación Cuántica
+
+## Temas selectos de Ingeniería en Computación III
+
+### Semestre 2025-I
+
+Curso de Computación Cuántica para la Facultad de Ingeniería de la UNAM
